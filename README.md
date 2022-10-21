@@ -5,7 +5,7 @@ I always want to be able to meet the goals of my clients, I value my services as
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on React Ja 
+- 🔭 I’m currently working on React Js 
 - 🌱 I’m currently learning Firebase and Django 
 - 👯 I’m looking to collaborate on with any Company 
 - 💬 Ask me about Anything 
