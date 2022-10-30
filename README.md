@@ -1,6 +1,6 @@
 ### Assalamualaikum
 #### I am Abir Khan
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw02CIjVaXpSx5mDX3Wi4lmf&ust=1667179112132000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLDAiajkhvsCFQAAAAAdAAAAABAE" align="right" alt="coding" width="400"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw02CIjVaXpSx5mDX3Wi4lmf&ust=1667179112132000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLDAiajkhvsCFQAAAAAdAAAAABAE" align="right" alt="coding" width="400">
 
 I always want to be able to meet the goals of my clients, I value my services as a Developer through my work. You may like my services. I am working as frontend developer since 2020.
 
