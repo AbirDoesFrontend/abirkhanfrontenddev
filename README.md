@@ -1,6 +1,6 @@
 ### Assalamualaikum
 #### I am Abir Khan
-<img align="right" alt="coding" src="https://tenor.com/view/golden-boy-fake-keyboard-programing-coding-paper-book-gif-20997049"/>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 
 I always want to be able to meet the goals of my clients, I value my services as a Developer through my work. You may like my services. I am working as frontend developer since 2020.
 
